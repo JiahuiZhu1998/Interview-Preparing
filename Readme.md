@@ -6,6 +6,19 @@
 
 -- Java 微服务 (Spring, SpringMVC, Mybatis, Redis, RabbitMQ, Kafka, MongoDB)
 
+    -- Redis 使用场景
+      -- Redis 做数据库
+      -- Redis 做缓存 Cache
+      -- Redis 做计数器
+      -- Redis 做排行榜
+      -- Redis 做好友关系
+      -- Redis 做统计活跃用户数
+      -- Redis 做分布式锁
+      -- Redis 做分布式限流
+      -- Redis 做消息队列
+      -- Redis 做LBS 应用
+      
+
 -- Python 微服务 (Flask, Django, FastAPI)
 
 -- Java 多线程和高并发 (ThreadLocal) </br>
