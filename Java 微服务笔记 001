@@ -7,5 +7,6 @@ Maven ----- 一个Spring 必须使用的 project management tool (主要控制�
     Dependency Injection 依赖注入:
         在 applicationContext中， 使用 <bean><property></property></bean> 进行 依赖注入
         dao层 对 service层进行 DI 依赖注入, service层和dao层 两者均在IOC容器里创建对象，功能层在Spring里面获取 service 和 dao 对象 实现功能
-     
+
+<img src="spring_pic1.png">
 ![image1](spring_pic1.png)
