@@ -4,7 +4,7 @@
 
 -- Java 基础 和 八股文
 
--- Java 微服务 (Spring, SpringMVC, Mybatis, Redis, RabbitMQ, Kafka, MongoDB)
+-- Java 微服务 (Spring, SpringMVC,SpringCloud, Mybatis, Redis, RabbitMQ, Kafka, MongoDB)
 
     -- Redis 使用场景
       -- Redis 做数据库
