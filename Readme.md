@@ -30,5 +30,19 @@
        -- 使用 ReentrantLock 结合 Condition
        -- 基本 LockSupport 实现线程间的阻塞和唤醒
 
--- mysql (关系型数据库)
+    --多线程保证线程安全(10种)
+       -- 无状态
+       -- 不可变
+       -- 无修改权限
+       -- synchronized
+       -- Lock
+       -- 分布式锁
+       -- volatile
+       -- ThreadLocal
+       -- 线程安全集合
+       -- CAS
+       -- 数据隔离
+       
+       
+-- MYSQL (关系型数据库)
 
