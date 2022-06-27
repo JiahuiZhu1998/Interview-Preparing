@@ -2,9 +2,9 @@
 
 -- 大厂面经，机经算法题
 
--- Java 基础 和 八股文
+-- Java 基础 和 八股文 (JVM原理，JAVA I/O )
 
--- Java 微服务 (Spring, SpringMVC,SpringCloud, Mybatis, Redis, RabbitMQ, Kafka, MongoDB)
+-- Java 微服务 (Spring, SpringMVC,SpringCloud, Hibernate, ElasticSearch, Mybatis, Redis, RabbitMQ, ActiveMQ, Kafka,Hive, Spark, MongoDB)
 
     -- Redis 使用场景
       -- Redis 做数据库
@@ -21,7 +21,7 @@
 
 -- Python 微服务 (Flask, Django, FastAPI)
 
--- Java 多线程和高并发 (ThreadLocal) </br>
+-- Java 多线程和高并发 (ThreadLocal)
   
     --多线程间通信方法(5种) (代码: comminicate_threads.java )
        -- 使用 volatile 关键字
@@ -45,4 +45,7 @@
        
        
 -- MYSQL (关系型数据库)
+    -- MYSQL 优化
+       -- 慢查询SQL是什么
 
+-- RPC服务，HTTP服务 (Dubbo, gRPC, Thrift, Netty, Nginx, Tomcat)
