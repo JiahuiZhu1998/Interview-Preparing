@@ -10,7 +10,7 @@
 
 -- Java 多线程和高并发 (ThreadLocal) </br>
   
-    --多线程间通信方法(5种) (代码: comminicate_threads.java )</br>
+    --多线程间通信方法(5种) (代码: comminicate_threads.java )
        -- 使用 volatile 关键字
        -- 使用 class Object中的 wait() 或者 notify()
        -- 使用 JUC 工具类 CountDownLatch
