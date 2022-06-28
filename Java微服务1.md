@@ -12,4 +12,5 @@ Maven ----- 一个Spring 必须使用的 project management tool (主要控制�
             UserService usImpl = (UserService) ac.getBean("usImpl");
             usImpl.hello();
     
+    <img src="https://raw.githubusercontent.com/JiahuiZhu1998/Interview-Preparing/master/spring_pic1.png" alt="image1" width="200px" height="200px">
 ![image1](https://raw.githubusercontent.com/JiahuiZhu1998/Interview-Preparing/master/spring_pic1.png){ width=50% height=50% }
