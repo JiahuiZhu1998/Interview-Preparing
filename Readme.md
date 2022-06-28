@@ -1,8 +1,21 @@
 # 面试准备资料
 
 -- 大厂面经，机经算法题
-
+        
 -- Java 基础 和 八股文 (JVM原理，JAVA I/O )
+
+    -- Java I/O  https://www.cnblogs.com/CoLo/p/15029877.html
+    
+    -- Java Collections 集合 https://www.cnblogs.com/CoLo/p/15029845.html
+    
+    -- Java 网络编程 https://www.cnblogs.com/CoLo/p/15029881.html
+    
+    -- Java 常用类 https://www.cnblogs.com/CoLo/p/15029835.html
+    
+    -- StringUtils
+      -- isEmpty/isNotEmpty/isNotBlank/isBlank/isAnyEmpty/isNoneEmpty/isAnyBlank/isNoneBlank 的区别
+    -- BigDecimal
+    -- 谈一谈Java ClassLoader机制的理解 https://www.cnblogs.com/CoLo/p/15339193.html
 
 -- Java 微服务 (Spring, SpringMVC,SpringCloud, Hibernate, ElasticSearch, Mybatis, Redis, RabbitMQ, ActiveMQ, Kafka,Hive, Spark, MongoDB)
 
