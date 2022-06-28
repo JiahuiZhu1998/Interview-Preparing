@@ -1,4 +1,4 @@
-Spring ---- 一个常用的 Java Web开发框架 (核心是 IOC 控制反转 和 AOP 面向切面编程) </br>
+Spring ---- 一个常用的 Java Web开发框架 (核心是 IOC 控制反转 和 AOP 面向切面编程)</br>
 Maven ----- 一个Spring 必须使用的 project management tool (主要控制项目和依赖 (又可以叫环境) )
 
 1. 首先用 Maven 构建 JAVA Spring 项目
@@ -16,8 +16,8 @@ Maven ----- 一个Spring 必须使用的 project management tool (主要控制�
     
     <h2>Spring常用注解</h2>
     
-        <h4>IOC 管理常用注解<h4>
+        IOC 管理常用注解
         @Component:  把注解的类加入IOC容器管理
         @Repository: 在持久层使用此类  @Service: 在业务层使用此类  @Controller: 在控制层使用此类
     
-        <h4>DI 常用注解 <h4>
+        DI 常用注解 
