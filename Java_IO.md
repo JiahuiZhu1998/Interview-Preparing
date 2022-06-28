@@ -7,6 +7,17 @@ JAVA I/O
   **字节流(ByteStream) 又包含:**<br>
     字节输入流(FileInputStream   BufferedInputStream)<br> 
     字节输出流(FileOutputStream  BufferedOutputStream)<br>
+        ```
+        File file = new File("src");
+        ```
+        <br>
+        ```
+        FileOutputStream fos = new FileOutputStream(file);
+        ```
+        <br>
+        ```
+        FileOutputStream fos = new FileOutputStream(new File("src"));
+        ```
   
   **字符流(CharacterStream)又包含:**<br>
     读 (FileReader  BufferedReader)<br>
