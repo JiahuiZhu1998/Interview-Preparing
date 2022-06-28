@@ -21,3 +21,7 @@ Maven ----- 一个Spring 必须使用的 project management tool (主要控制�
         @Repository: 在持久层使用此类  @Service: 在业务层使用此类  @Controller: 在控制层使用此类
     
         DI 常用注解 
+        @ Value:     注入普通类型 (String, int, Double 等)
+        @ Autowired: 注入引用类型
+        @ Qualified: 按id名称注入, 与 @Autowired一起使用
+        @ Resource:  Java原生注解
