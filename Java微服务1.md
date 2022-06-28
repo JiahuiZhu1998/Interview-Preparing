@@ -14,10 +14,10 @@ Maven ----- 一个Spring 必须使用的 project management tool (主要控制�
     
     <img src="https://raw.githubusercontent.com/JiahuiZhu1998/Interview-Preparing/master/spring_pic1.png" alt="image1" width="800px" height="300px">
     
-    Spring常用注解
+    <h2>Spring常用注解</h2>
     
-        ##IOC 管理常用注解
+        <h4>IOC 管理常用注解<h4>
         @Component:  把注解的类加入IOC容器管理
         @Repository: 在持久层使用此类  @Service: 在业务层使用此类  @Controller: 在控制层使用此类
     
-        ##DI 常用注解
+        <h4>DI 常用注解 <h4>
