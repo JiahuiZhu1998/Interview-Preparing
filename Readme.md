@@ -71,8 +71,7 @@
 
 -- MYSQL (关系型数据库)
 
-    -- MYSQL 优化
-       -- 慢查询SQL是什么
+    -- MYSQL总结1
        -- MYSQL 间隙锁死锁问题 https://www.jianshu.com/p/a0aa55e9dce7
 
 -- RPC服务，HTTP服务 (Dubbo, gRPC, Thrift, Netty, Nginx, Tomcat)
