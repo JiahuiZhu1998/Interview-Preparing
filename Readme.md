@@ -6,6 +6,11 @@
 
 -- Java 微服务 (Spring, SpringMVC,SpringCloud, Hibernate, ElasticSearch, Mybatis, Redis, RabbitMQ, ActiveMQ, Kafka,Hive, Spark, MongoDB)
 
+    -- ElasticSearch 实现分页的三种方式
+      -- from + size 浅分页
+      -- scroll 深分页
+      -- search_after 深分页
+      
     -- Redis 使用场景
       -- Redis 做数据库
       -- Redis 做缓存 Cache
