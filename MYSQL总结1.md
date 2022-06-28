@@ -117,7 +117,23 @@ MYSQL 基本问题以及调优方法
   8. 少用 select * 而是用select 变量名，并且只返回需要的列
   9. 外表小内表大 用 exist, 外表大内表小用 in做查询
   10. 优化 group by
-
+      ```
+      低效:   select job, avg(sal) from emp group by job having job='president' or job='manager'
+      高效:   select job, avg(sal) from emp where job='president' or job='manager' group by job
+      ```
+      
+  11. 尽量使用数字字段而不是字符
+  12. 优化join
+      ```
+      当连接查询没有 where条件时:
+          left join   前面是驱动表, 后面是被驱动表
+          right join  后面是被驱动表, 前面是驱动表
+          inner join/join 会自动选择表数据比较少的作为驱动表
+          straight_join 直接选择左边的表作为驱动表
+          
+      当连接查询有 where 条件时:
+          带 where 条件的是驱动表, 否则是被驱动表
+      ```
 
   
 
