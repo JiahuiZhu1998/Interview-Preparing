@@ -31,8 +31,10 @@ Maven ----- 一个Spring 必须使用的 project management tool (主要控制�
         @ Qualified: 按id名称注入, 与 @Autowired一起使用
         @ Resource:  Java原生注解
  
-4. Spring AOP (4.1使用 JDK动态代理[有接口]: 调用Java反射中的Proxy 和 InvocationHandler 两个类) (Aspect Oriented Programming)
-              (4.2使用 CGLIB动态代理[无接口]) 
+4. Spring AOP </br>
+
+    (4.1使用 JDK动态代理[有接口]: 调用Java反射中的Proxy 和 InvocationHandler 两个类) (Aspect Oriented Programming)</br>
+    (4.2使用 CGLIB动态代理[无接口]) 
     
     <h2>Spring AOP 术语</h2>
     
