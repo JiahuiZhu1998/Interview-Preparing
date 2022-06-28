@@ -6,11 +6,17 @@
 
     -- Java I/O  https://www.cnblogs.com/CoLo/p/15029877.html
     
+    -- Java 常用类 https://www.cnblogs.com/CoLo/p/15029835.html
+    
     -- Java Collections 集合 https://www.cnblogs.com/CoLo/p/15029845.html
+    
+    -- Java 反射
+    
+    -- Java 垃圾回收
     
     -- Java 网络编程 https://www.cnblogs.com/CoLo/p/15029881.html
     
-    -- Java 常用类 https://www.cnblogs.com/CoLo/p/15029835.html
+
     
     -- StringUtils
       -- isEmpty/isNotEmpty/isNotBlank/isBlank/isAnyEmpty/isNoneEmpty/isAnyBlank/isNoneBlank 的区别
@@ -35,9 +41,7 @@
       -- Redis 做分布式限流
       -- Redis 做消息队列
       -- Redis 做LBS 应用
-      
 
--- Python 微服务 (Flask, Django, FastAPI)
 
 -- Java 多线程和高并发 (ThreadLocal)
   
@@ -61,7 +65,10 @@
        -- CAS
        -- 数据隔离
        
-       
+
+-- Python 微服务 (Flask, Django, FastAPI)
+
+
 -- MYSQL (关系型数据库)
 
     -- MYSQL 优化
