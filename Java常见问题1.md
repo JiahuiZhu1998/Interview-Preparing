@@ -14,21 +14,51 @@
 5. 面向对象5个基本原则是什么？
 6. Java重写(Overwrite)和重载(Overload)的区别
 7. Java 对象相等判断
-8. Java 类和接口 (Class And Interface)
+
+**7. Java 类和接口 (Class And Interface)**
         
         Abstract 和 Interface 都不能被 实例化, 都不能被继承，都包含abstract method, 其他子类都要覆写
         普通类不能包含Abstract, Abstract可以包含普通类
         Abstract 不能用final修饰, 因为Abstract 需要让其他类继承
         
 
-&emsp;&emsp;&emsp;抽象类 Abstract &emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;接口 Interface&emsp;&emsp;&emsp;&emsp;|    
- :---------------------------------------------------: | :------------------------------------:| 
-声明用 abstract|声明用 interface|   
-子类用 extend |子类用 implement|
-有 constructor |没有 constructor| 
-可以是public, private, protected |只能是public | 
- 最多继承一个 abstract |可以继承多个 interface |
-&emsp;&emsp;&emsp;可以任意 declaration &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp; declaration 必须staic并且final &emsp;&emsp;&emsp;&emsp;| 
+<p align="center"></p>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center">抽象类 Abstract</th>
+            <th align="center">接口 Interface</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">  声明用 abstract. </td>
+            <td align="center">  声明用 interface </td>
+        </tr>
+        <tr>
+            <td align="center">子类用 extend</td>
+            <td align="center">子类用 implement</td>
+        </tr>
+         <tr>
+            <td align="center"> 有 constructor </td>
+            <td align="center"> 没有 constructor</td>
+        </tr>
+         <tr>
+            <td align="center">  可以是public, private, protected </td>
+            <td align="center">  只能是public</td>
+        </tr>
+        <tr>
+            <td align="center">  最多继承一个 abstract &emsp;&emsp;</td>
+            <td align="center">  可以继承多个 interface&emsp;&emsp;</td>
+        </tr>
+        <tr>
+            <td align="center">       可以任意 declaration &emsp;&emsp;     </td>
+            <td align="center">     declaration 必须staic并且final&emsp;&emsp; </td>
+        </tr> 
+    </tbody>
+</table>
+<p></p>
+
 <br>
 
 8. 对象引用 和 对象实例 有什么不同？
