@@ -1,8 +1,8 @@
 # 面试准备资料
 
--- 大厂面经，机经算法题
+### 大厂面经，机经算法题
         
--- Java 基础 和 八股文 (JVM原理，JAVA I/O )
+### Java 基础 和 八股文 (JVM原理，JAVA I/O )
 
     -- Java I/O  https://www.cnblogs.com/CoLo/p/15029877.html
     
@@ -23,7 +23,7 @@
     -- BigDecimal
     -- 谈一谈Java ClassLoader机制的理解 https://www.cnblogs.com/CoLo/p/15339193.html
 
--- Java 微服务 (Spring, SpringMVC,SpringCloud, Hibernate, ElasticSearch, Mybatis, Redis, Memcache, rmq, RabbitMQ, ActiveMQ, Kafka,Hive, Spark, MongoDB)
+### Java 微服务 (Spring, SpringMVC,SpringCloud, Hibernate, ElasticSearch, Mybatis, Redis, Memcache, rmq, RabbitMQ, ActiveMQ, Kafka,Hive, Spark, MongoDB)
 
     -- ElasticSearch 实现分页的三种方式
       -- from + size 浅分页
@@ -43,7 +43,7 @@
       -- Redis 做LBS 应用
 
 
--- Java 多线程和高并发 (Hadoop, 高并发分布式, ThreadLocal)
+### Java 多线程和高并发 (Hadoop, 高并发分布式, ThreadLocal)
   
     --多线程间通信方法(5种) (代码: comminicate_threads.java )
        -- 使用 volatile 关键字
@@ -66,12 +66,11 @@
        -- 数据隔离
        
 
--- Python 微服务 (Flask, Django, FastAPI)
+### Python 微服务 (Flask, Django, FastAPI)
 
+### MYSQL (关系型数据库)
 
--- MYSQL (关系型数据库)
-
-    -- MYSQL总结1.md
+[MYSQL总结](https://github.com/JiahuiZhu1998/Interview-Preparing/blob/master/MYSQL总结1.md)
     
        -- MYSQL 间隙锁死锁问题 https://www.jianshu.com/p/a0aa55e9dce7
 
