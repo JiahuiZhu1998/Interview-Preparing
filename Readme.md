@@ -1,6 +1,8 @@
 # 面试准备资料
 
 ### 大厂面经，机经算法题
+
+&emsp;&emsp;&emsp;&emsp;[Java 面试问题 1](https://github.com/JiahuiZhu1998/Interview-Preparing/blob/master/Java常见问题1.md)
         
 ### Java 基础 和 八股文 (JVM原理，JAVA I/O )
 
