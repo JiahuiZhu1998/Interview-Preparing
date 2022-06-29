@@ -23,7 +23,7 @@
     -- BigDecimal
     -- 谈一谈Java ClassLoader机制的理解 https://www.cnblogs.com/CoLo/p/15339193.html
 
--- Java 微服务 (Spring, SpringMVC,SpringCloud, Hibernate, ElasticSearch, Mybatis, Redis, RabbitMQ, ActiveMQ, Kafka,Hive, Spark, MongoDB)
+-- Java 微服务 (Spring, SpringMVC,SpringCloud, Hibernate, ElasticSearch, Mybatis, Redis, Memcache, rmq, RabbitMQ, ActiveMQ, Kafka,Hive, Spark, MongoDB)
 
     -- ElasticSearch 实现分页的三种方式
       -- from + size 浅分页
@@ -43,7 +43,7 @@
       -- Redis 做LBS 应用
 
 
--- Java 多线程和高并发 (ThreadLocal)
+-- Java 多线程和高并发 (Hadoop, 高并发分布式, ThreadLocal)
   
     --多线程间通信方法(5种) (代码: comminicate_threads.java )
        -- 使用 volatile 关键字
@@ -75,4 +75,4 @@
     
        -- MYSQL 间隙锁死锁问题 https://www.jianshu.com/p/a0aa55e9dce7
 
--- RPC服务，HTTP服务 (Dubbo, gRPC, Thrift, Netty, Nginx, Tomcat)
+-- RPC服务，HTTP服务 (Dubbo, gRPC, Thrift, Netty, Nginx, Tomcat, CDN, 负载均衡 )
