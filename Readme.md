@@ -76,4 +76,11 @@
     
        -- MYSQL 间隙锁死锁问题 https://www.jianshu.com/p/a0aa55e9dce7
 
+### 网络 
+
 -- RPC服务，HTTP服务 (Dubbo, gRPC, Thrift, Netty, Nginx, Tomcat, CDN, 负载均衡 )
+
+### Linux 操作
+
+    --linux ps进程相关操作, 看端口有没有开启, 引用传递和值传递, r,b,u 分别是什么意思
+    -- 谈一谈Java ClassLoader机制的理解 https://www.cnblogs.com/CoLo/p/15339193.html
